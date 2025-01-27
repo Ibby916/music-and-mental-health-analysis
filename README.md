@@ -44,6 +44,8 @@ Data is sourced from the Music & Mental Health Survey and loaded into a Pandas D
 - Created bar charts, boxplots, and count plots to visualize trends in music preferences and mental health conditions.
 - Performed exploratory and causal analysis to identify correlations and significant patterns.
 
+---
+
 ## Tools & Libraries Used
 - **Python:** For data analysis and visualization.
 - **Pandas & NumPy:** Data manipulation.
