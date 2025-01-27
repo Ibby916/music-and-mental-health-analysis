@@ -1,5 +1,5 @@
 # Investigating Music Preference and Habit Trends and Its Impact On Mental Health
-
+---
 ## Overview
 
 This repository analyzes the **Music & Mental Health Survey Results** dataset provided by [Catherine Rasgaitis on Kaggle](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results). Music is deeply intertwined with people’s lives and emotions. Understanding how music preferences and habits affect mental health is crucial for mental health practitioners, the music industry, and individuals striving to improve their well-being. This analysis explores the relationship between music preferences, streaming habits, and self-reported mental health conditions among survey respondents. By uncovering trends and associations, the study aims to provide valuable insights for promoting mental wellness through music.
@@ -19,10 +19,10 @@ The primary goal is to uncover patterns and relationships between music preferen
 2. Explore the distribution of self-reported mental health conditions.
 3. Examine the relationship between music genre frequency and depression levels.
 4. Investigate associations between mental health conditions and:
-- Daily music listening habits.
-- Favorite music genres.
-- Exploration of new artists or genres.
-- Involvement in instrumental/composing activities.
+   - Daily music listening habits.
+   - Favorite music genres.
+   - Exploration of new artists or genres.
+   - Involvement in instrumental/composing activities.
 
 ## Methodology
 
