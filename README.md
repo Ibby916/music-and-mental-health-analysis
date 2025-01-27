@@ -19,10 +19,10 @@ The primary goal is to uncover patterns and relationships between music preferen
 2. Explore the distribution of self-reported mental health conditions.
 3. Examine the relationship between music genre frequency and depression levels.
 4. Investigate associations between mental health conditions and:
-   - Daily music listening habits.
-   - Favorite music genres.
-   - Exploration of new artists or genres.
-   - Involvement in instrumental/composing activities.
+- Daily music listening habits.
+- Favorite music genres.
+- Exploration of new artists or genres.
+- Involvement in instrumental/composing activities.
 
 ## Methodology
 
@@ -45,14 +45,16 @@ Data is sourced from the Music & Mental Health Survey and loaded into a Pandas D
 - **Pandas & NumPy:** Data manipulation.
 - **Matplotlib & Seaborn:** Visualization.
 
-## How to Use This Repository
-Clone the repository:
-   ```bash
-   git clone https://github.com/Ibby916/music-and-mental-health-analysis.git
-
 ## Contributions:
 Contributions to expand or enhance this analysis are welcome! Feel free to open issues or submit pull requests.
 
 ## Acknowledgements:
 - Dataset by Catherine Rasgaitis.
 - Inspiration: Understanding the role of music in mental health.
+
+## How to Use This Repository
+Clone the repository:
+   ```bash
+   git clone https://github.com/Ibby916/music-and-mental-health-analysis.git
+
+
