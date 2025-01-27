@@ -1,8 +1,8 @@
 # Investigating Music Preference and Habit Trends and Its Impact On Mental Health
----
-## Overview
 
-This repository analyzes the **Music & Mental Health Survey Results** dataset provided by [Catherine Rasgaitis on Kaggle](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results). Music is deeply intertwined with people’s lives and emotions. Understanding how music preferences and habits affect mental health is crucial for mental health practitioners, the music industry, and individuals striving to improve their well-being. This analysis explores the relationship between music preferences, streaming habits, and self-reported mental health conditions among survey respondents. By uncovering trends and associations, the study aims to provide valuable insights for promoting mental wellness through music.
+This work analyzes the **Music & Mental Health Survey Results** dataset provided by [Catherine Rasgaitis on Kaggle](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results). Music is deeply intertwined with people’s lives and emotions. Understanding how music preferences and habits affect mental health is crucial for mental health practitioners, the music industry, and individuals striving to improve their well-being. This analysis explores the relationship between music preferences, streaming habits, and self-reported mental health conditions among survey respondents. By uncovering trends and associations, the study aims to provide valuable insights for promoting mental wellness through music.
+
+---
 
 ## Dataset Description
 
@@ -10,6 +10,8 @@ The dataset explores the relationships between individuals' music preferences an
 - Their musical background and listening habits.
 - Frequency of listening to 16 different music genres.
 - Self-reported mental health conditions ranked on a scale from 0 (none) to 10 (extreme).
+
+---
 
 ## Goals of the Analysis
 
@@ -23,8 +25,10 @@ The primary goal is to uncover patterns and relationships between music preferen
    - Favorite music genres.
    - Exploration of new artists or genres.
    - Involvement in instrumental/composing activities.
+  
+---
 
-## Methodology
+## Content
 
 ### 1. Importing Libraries
 Essential libraries such as Pandas, NumPy, Seaborn, and Matplotlib are used for data manipulation and visualization.
@@ -45,12 +49,18 @@ Data is sourced from the Music & Mental Health Survey and loaded into a Pandas D
 - **Pandas & NumPy:** Data manipulation.
 - **Matplotlib & Seaborn:** Visualization.
 
-## Contributions:
+---
+
+## Contributions
 Contributions to expand or enhance this analysis are welcome! Feel free to open issues or submit pull requests.
 
-## Acknowledgements:
-- Dataset by Catherine Rasgaitis.
+---
+
+## Acknowledgements
+- Dataset by [Catherine Rasgaitis](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results).
 - Inspiration: Understanding the role of music in mental health.
+
+---
 
 ## How to Use This Repository
 Clone the repository:
